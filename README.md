@@ -1,3 +1,3 @@
 # References
 
-https://github.com/AL333Z/haskell-graphql
+http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf
